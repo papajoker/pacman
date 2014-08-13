@@ -1,0 +1,6 @@
+-----------------------------------'
+pour restauration:
+git clone https://github.com/papajoker/pacman.git
+pacman/restauration.sh
+sudo pacman -S --needed $(< pacman/pkglist-repo.txt)
+yaourt -S --needed --noconfirm $(< pacman/pkglist-aur.txt)

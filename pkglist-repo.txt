@@ -2,6 +2,7 @@ acpid
 aisleriot
 arj
 aspell-fr
+audacity
 autoconf
 automake
 b43-fwcutter
@@ -46,6 +47,7 @@ findutils
 firefox-i18n-fr
 flashplugin
 flex
+frei0r-plugins
 gawk
 gcc
 gcc-libs
@@ -55,6 +57,7 @@ gimp-help-fr
 git
 gitg
 glibc
+gnome-logs
 gparted
 gptfdisk
 grep
@@ -72,6 +75,7 @@ gvfs-smb
 gzip
 haveged
 hdparm
+htop
 hunspell-fr
 hyphen-fr
 imagewriter
@@ -79,6 +83,7 @@ inetutils
 inkscape
 intel-ucode
 inxi
+iotop
 iproute2
 iptables
 iputils
@@ -158,6 +163,7 @@ kdeutils-kgpg
 kdeutils-kwalletmanager
 kdeutils-print-manager
 kdeutils-sweeper
+kdevelop-python
 kdm-theme-manjaro
 kdm-theme-manjaro-vector
 keyboardctl
@@ -174,6 +180,7 @@ lftp
 lib32-mesa-demos
 lib32-nouveau-dri
 libdnet
+libmicrohttpd
 libreoffice-base
 libreoffice-calc
 libreoffice-common
@@ -196,6 +203,9 @@ linux314-ndiswrapper
 linux315
 linux315-ndiswrapper
 linux315-virtualbox-host-modules
+linux316
+linux316-ndiswrapper
+linux316-virtualbox-host-modules
 locale-info
 logrotate
 lsb-release
@@ -264,6 +274,7 @@ php
 php-gd
 php-mcrypt
 php-sqlite
+pitivi
 pkg-config
 playonlinux
 poedit
@@ -272,9 +283,11 @@ procps-ng
 psmisc
 pulseaudio-ctl
 pv
+python-docs
 python-numpy
 python-pip
 python2-numpy
+qt5-doc
 qtcreator
 razor-qt
 recorditnow

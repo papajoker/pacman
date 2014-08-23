@@ -1,3 +1,4 @@
+atom-editor-git
 caledonia-bundle
 chromium-libpdf
 chromium-pepper-flash
@@ -22,7 +23,6 @@ midna-colors
 npapi-vlc
 opera-developer
 pacmanInfo
-phototonic
 python-pyside
 python-pyside-common
 python-rfc6266

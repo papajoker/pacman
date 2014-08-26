@@ -261,6 +261,7 @@ os-prober
 oxygen-gtk2
 oxygen-gtk3
 oxygen-icons
+pacgraph
 pacman
 pacmanlogviewer
 pamac

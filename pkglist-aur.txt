@@ -21,12 +21,14 @@ komodo-edit
 megatools
 midna-colors
 npapi-vlc
+oh-my-zsh-git
 opera-developer
 pacmanInfo
 python-pyside
 python-pyside-common
 python-rfc6266
 python-rope
+smartgithg
 spyder
 spyder3
 sublime-text-dev

@@ -6,9 +6,10 @@ cd pacman
 pacman -Qqen > pkglist-repo.txt
 pacman -Qqem > pkglist-aur.txt
 
-#on a executé les 2 lignes a la création du repository dans le dossier "pacman"
+#on a executé init a la création du repository dans le dossier "pacman"
 #git init
-#git remote add origin https://papajoker@github.com/papajoker/pacman.git
+git remote rm origin
+git remote add origin https://papajoker@github.com/papajoker/pacman.git
 
 echo '---------- git add ----------'
 git add pkglist-repo.txt

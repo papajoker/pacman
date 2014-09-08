@@ -1,5 +1,6 @@
 #!/bin/bash
 echo 'recupérer la dernière version et créer dossier /pacman/'
+rm -Rf pacman
 git clone https://github.com/papajoker/pacman.git
 cd pacman
 pacman -Qqen > pkglist-repo.txt
@@ -7,7 +8,7 @@ pacman -Qqem > pkglist-aur.txt
 
 #on a executé les 2 lignes a la création du repository dans le dossier "pacman"
 #git init
-#git remote add origin https://github.com/papajoker/pacman.git
+#git remote add origin https://papajoker@github.com/papajoker/pacman.git
 
 echo '---------- git add ----------'
 git add pkglist-repo.txt

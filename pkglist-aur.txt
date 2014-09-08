@@ -1,6 +1,5 @@
 atom-editor-git
 caledonia-bundle
-chromium-libpdf
 chromium-pepper-flash
 conky-lua
 conky-manager
@@ -18,7 +17,8 @@ kcmsystemd
 kde-servicemenus-rootactions
 kingsoft-office
 komodo-edit
-megatools
+megacmd
+megasync
 midna-colors
 npapi-vlc
 oh-my-zsh-git
